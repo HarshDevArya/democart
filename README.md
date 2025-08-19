@@ -1,4 +1,4 @@
-## Demo Store (React + Vite)
+## Demo Store (React)
 
 A modern demo e‑commerce cart built with React and Vite. Browse products from the Fake Store API, search/filter/sort, view details, add to cart with local persistence, and try a client‑side checkout form with validation.
 
